@@ -7,8 +7,8 @@
     <td>
       <ul>
         <li>🔭 I’m currently working on <strong>my diploma work for my computer science bachelor</strong></li>
-        <li>🌱 I’m currently learning <strong>C programming and kernel development</strong></li>
-        <li>🔥 I’m also interested in <strong>Go, Python, and containerization</strong></li>
+        <li>🌱 I’m currently learning <strong>C programming</strong></li>
+        <li>🔥 I’m also interested in <strong>DevOps engineering and OS development</strong></li>
         <li>👯 I’m looking to collaborate on <strong>a lot of different projects</strong></li>
       </ul>
     </td>
